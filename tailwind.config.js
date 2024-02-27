@@ -17,6 +17,9 @@ export default {
         pizzaFilterActiveText:"#2C2C2C",
 
       },
+      flex:{
+        limit4:'1 1 20%'
+      },
       screens:{
         sm:"480px",
         md:"768px",
